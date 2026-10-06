@@ -30,6 +30,10 @@ A PostgreSQL-backed application layer demonstrating relational schema design, PL
 
 The project is being developed with a spec-driven workflow: product requirements, technical design, executable tasks, implementation evidence and acceptance tests.
 
+## Learning notes
+
+[C# from Python: annotated notes and exercises](learning/csharp/README.md) — my current learning record through enums and pattern matching, with C# / Python comparisons and Visual Studio debugging notes.
+
 ## Core technologies
 
 `TypeScript` · `React` · `C#` · `ASP.NET Core` · `Python` · `FastAPI` · `PostgreSQL` · `SQL` · `Docker` · `GitHub Actions` · `RAG`
